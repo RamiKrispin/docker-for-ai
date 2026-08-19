@@ -1,0 +1,14 @@
+.DS_Store
+.venv/
+.quarto/
+_site/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+docker/build.local.env
