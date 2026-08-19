@@ -1,34 +1,14 @@
-# Docker for AI
+# Docker 101
 
-This is the public companion repository for the **Docker for AI** tutorial
-series in [The AIOps Newsletter](https://theaiops.substack.com/).
+This is the supporting repository for the Docker 101 series in [The AIOps
+Newsletter](https://theaiops.substack.com/).
 
-The repository contains reviewed code examples and other technical artifacts
-that readers can use without access to the private authoring workspace.
+## Tutorials
 
-## Current companion code
-
-- [`tutorials/t03-fastapi-dockerfile/`](tutorials/t03-fastapi-dockerfile/) — a
-  minimal FastAPI application and the Dockerfile used to prepare its container
-  image.
-
-Tutorial links and additional code will be added as the series is published.
-
-## Repository structure
-
-```text
-tutorials/    Runnable code and supporting files organized by tutorial
-```
-
-## Publication boundary
-
-Only reviewed, publication-ready code, tests, required documentation, and
-final supporting assets belong here. Newsletter drafts, release copy, plans,
-editorial notes, QA reports, and unpublished visual sources remain in the
-private authoring repository.
-
-Promotion is manual and allowlisted; the public and private repositories are
-never synchronized indiscriminately.
+| Tutorial | Article | Code |
+| --- | --- | --- |
+| **Why AI/ML Developers Should Learn Docker?** | [Read the tutorial](https://theaiops.substack.com/p/why-aiml-developers-should-learn) | — |
+| **Why AI Developers Should Learn Docker** | [Read the tutorial](https://theaiops.substack.com/p/why-ai-developers-should-learn-docker) | — |
 
 ## License
 
