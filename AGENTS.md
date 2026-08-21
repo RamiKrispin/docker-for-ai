@@ -2,8 +2,8 @@
 
 ## Publication boundary
 
-- This is the public companion repository for the Docker for AI tutorial
-  series.
+- This is the supporting repository for the Docker 101 series in The AIOps
+  Newsletter.
 - Add only reviewed, publication-ready code examples, tests, required public
   documentation, and final assets needed to run the examples.
 - Do not add newsletter drafts, release drafts, editorial notes, visual design
@@ -13,7 +13,10 @@
 
 ## Implementation conventions
 
-- Keep each tutorial's companion code under `tutorials/t##-short-slug/`.
+- Keep each tutorial's companion code under `tutorials/##-short-slug/`, using
+  its two-digit publication order followed by two to four descriptive words.
+- Refer to tutorials in reader-facing documentation by their full published
+  titles, not internal development identifiers.
 - Make examples runnable from their own directories with documented commands.
 - Pin dependencies used by an article and keep Docker build contexts minimal.
 - Never commit secrets, credentials, model weights, private data, or

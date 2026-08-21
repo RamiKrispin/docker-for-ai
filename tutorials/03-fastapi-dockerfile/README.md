@@ -1,4 +1,4 @@
-# T03: FastAPI Dockerfile
+# Write Your First Dockerfile for a FastAPI Application
 
 This directory contains the companion code for the tutorial **Write Your First
 Dockerfile for a FastAPI Application**.
