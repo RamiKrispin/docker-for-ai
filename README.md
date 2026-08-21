@@ -7,7 +7,7 @@ Newsletter](https://theaiops.substack.com/).
 
 | Tutorial | Article | Code |
 | --- | --- | --- |
-| **Why AI/ML Developers Should Learn Docker?** | [Read the tutorial](https://theaiops.substack.com/p/why-aiml-developers-should-learn) | — |
+| **The Docker 101 Series for AI/ML Developers** | [Read the tutorial](https://theaiops.substack.com/p/why-aiml-developers-should-learn) | — |
 | **Why AI Developers Should Learn Docker** | [Read the tutorial](https://theaiops.substack.com/p/why-ai-developers-should-learn-docker) | — |
 
 ## License
