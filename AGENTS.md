@@ -29,9 +29,3 @@
 - Build and run container examples before marking them publication-ready.
 - Verify commands and links without access to the private authoring repository.
 - Review the exact public file set before each promotion.
-
-## License
-
-- Apply CC BY-NC-SA 4.0 to tutorial artifacts unless the user explicitly
-  requests a different license.
-- Include the standard license notice in public tutorial pages and notebooks.
