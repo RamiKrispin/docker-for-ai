@@ -44,11 +44,6 @@ docker build -t rkrispin/docker-for-ai-fastapi:0.1 .
 Replace `rkrispin` with your Docker Hub username if you plan to push the image
 to a repository under your account.
 
-During the build, Docker resolves `python:3.11-slim` as
-`docker.io/library/python:3.11-slim`. Docker Hub is the default registry for
-this unqualified image reference. Docker downloads base-image layers that are
-not already available in the local image store.
-
 A successful build ends with output showing that Docker exported the image and
 named it `docker.io/rkrispin/docker-for-ai-fastapi:0.1`. Exact step numbers,
 timings, and cache messages can differ between systems and builds.
@@ -67,8 +62,9 @@ columns—along with an image ID and size. The exact columns depend on the Docke
 version and the configured image store. The image ID and size can also differ
 by platform.
 
-At this point, the image exists locally, but no container has been created or
-started. The next tutorial will use this image with `docker run`.
+At this point, the image exists locally, but it has not been published and no
+container has been created or started. The next tutorial will push this image
+to Docker Hub.
 
 ## Troubleshoot common Docker build errors
 
