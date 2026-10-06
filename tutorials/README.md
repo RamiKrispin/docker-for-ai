@@ -17,3 +17,9 @@ remain in the private authoring repository.
   Image](06-run-fastapi-container/) — creates a named FastAPI container,
   publishes its API port to the local machine, verifies the response, and
   cleans up the container
+- [How to Inspect a Docker
+  Image](07-image-inspect-layers/) — inspects the FastAPI image's metadata,
+  runtime configuration, build history, and filesystem-layer identifiers
+- [Understand How Docker Image Layers Are
+  Stacked](08-understand-image-layers/) — compares the Python base image with
+  the FastAPI image and separates inherited layers from application layers
