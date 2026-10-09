@@ -19,6 +19,8 @@ This Docker 101 series is based on my LinkedIn Learning course—[Docker for Loc
 | **How to Build a Docker Image from a Dockerfile** | [Read the tutorial](https://theaiops.substack.com/p/how-to-build-a-docker-image-from) | [code](https://github.com/RamiKrispin/docker-for-ai/tree/main/tutorials/04-build-fastapi-image)|
 | **How to Push a Docker Image to Docker Hub** | [Read the tutorial](https://theaiops.substack.com/p/how-to-push-a-docker-image-to-docker) | [code](https://github.com/RamiKrispin/docker-for-ai/tree/main/tutorials/05-publish-docker-hub)|
 | **How to Run a Docker Container from an Image** | [Read the tutorial](https://theaiops.substack.com/p/how-to-run-a-docker-container-from) | [code](https://github.com/RamiKrispin/docker-for-ai/tree/main/tutorials/06-run-fastapi-container)|
+| **How to Inspect a Docker Image** | TBD | [code](https://github.com/RamiKrispin/docker-for-ai/tree/main/tutorials/07-image-inspect-layers) |
+| **Understand How Docker Image Layers Are Stacked** | TBD | [code](https://github.com/RamiKrispin/docker-for-ai/tree/main/tutorials/08-understand-image-layers) |
 
 ## License
 
